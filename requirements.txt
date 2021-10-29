@@ -1,0 +1,2 @@
+.\libs\PyBluez-0.22-cp35-none-win_amd64.whl
+pycaw

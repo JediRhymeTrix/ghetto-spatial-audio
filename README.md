@@ -20,4 +20,4 @@ For additional options, run \
 
 Credits to [ThePBone](https://github.com/ThePBone/BudsPro-Headtracking)
 
-#### NOTE: This project is currenty dead in the water as Windows does not allow changing volume for individual channels on the Galaxy Buds Pro
+#### NOTE: This project is currenty dead in the water as Windows no longer allows changing volume for individual channels on the Galaxy Buds Pro
